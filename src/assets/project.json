@@ -1,0 +1,52 @@
+[
+    {
+        "img": "src/assets/pollito_developer.gif",
+        "name": "Proyecto 1",
+        "description": "Este es un ejemplo de uno de los proyectos para ver si sale bien la cosa esta, y para mas placer.",
+        "tech": [
+            "src/assets/icons8-github-96.png",
+            "src/assets/icons8-instagram-96.png",
+            "src/assets/icons8-linkedin-96.png"
+        ]
+    },
+    {
+        "img": "src/assets/pollito_developer.gif",
+        "name": "Proyecto 1",
+        "description": "Este es un ejemplo de uno de los proyectos para ver si sale bien la cosa esta, y para mas placer.",
+        "tech": [
+            "src/assets/icons8-github-96.png",
+            "src/assets/icons8-instagram-96.png",
+            "src/assets/icons8-linkedin-96.png"
+        ]
+    },
+    {
+        "img": "src/assets/pollito_developer.gif",
+        "name": "Proyecto 1",
+        "description": "Este es un ejemplo de uno de los proyectos para ver si sale bien la cosa esta, y para mas placer.",
+        "tech": [
+            "src/assets/icons8-github-96.png",
+            "src/assets/icons8-instagram-96.png",
+            "src/assets/icons8-linkedin-96.png"
+        ]
+    },
+    {
+        "img": "src/assets/pollito_developer.gif",
+        "name": "Proyecto 1",
+        "description": "Este es un ejemplo de uno de los proyectos para ver si sale bien la cosa esta, y para mas placer.",
+        "tech": [
+            "src/assets/icons8-github-96.png",
+            "src/assets/icons8-instagram-96.png",
+            "src/assets/icons8-linkedin-96.png"
+        ]
+    },
+    {
+        "img": "src/assets/pollito_developer.gif",
+        "name": "Proyecto 1",
+        "description": "Este es un ejemplo de uno de los proyectos para ver si sale bien la cosa esta, y para mas placer.",
+        "tech": [
+            "src/assets/icons8-github-96.png",
+            "src/assets/icons8-instagram-96.png",
+            "src/assets/icons8-linkedin-96.png"
+        ]
+    }
+]
